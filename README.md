@@ -9,7 +9,7 @@ answers, private data or credentials are included.
 ## Skill
 
 - Name: `thesis-longdoc-consistency`
-- Summary: Use when a case supplies a thesis or other long document and asks for chapter planning, cross-chapter consistency checks, or localized revision tracking; indexes chapters and word allocation, builds an acronym and terminology glossary, verifies figure/table/equation numbering against references, and produces a scoped change log in /app/output/result.json while preserving case_id and every output_contract field. Deterministic standard library only; no network.
+- Summary: Use when a case supplies a thesis or other long document and asks for chapter planning, cross-chapter consistency checks, or localized revision tracking; drafts the requested sections from supplied material, builds chapter/word allocation, acronym and terminology glossary, verifies figure/table/equation numbering, and records per-claim sources plus a scoped change log in /app/output/result.json while preserving case_id and every output_contract field. Deterministic standard library only; no network.
 
 ## Contents
 
