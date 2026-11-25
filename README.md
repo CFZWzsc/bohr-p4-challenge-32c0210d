@@ -2,9 +2,9 @@
 
 本题：学位论文与长文档写作（challenge-32c0210d，赛道 writing）。
 
-能力定位：在保留原始事实（数字、单位、引用、图表编号、专有名词）的前提下改写与扩写学术文本，产出可直接落盘的成稿，并给出逐条可核验的变更记录
+能力定位：把分散材料组织成章节化长文档，章号、交叉引用、图表与参考文献全文一致，缺口章节显式标注。
 
-交付物：result.json（契约齐全）、改写稿、evidence_map、change_log
+交付物：thesis/00-abstract.md、thesis/01-…章节目录、crossrefs.json、numbering-check.json、plan.json
 
 
 ## 这个 Skill 做什么
